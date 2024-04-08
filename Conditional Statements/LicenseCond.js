@@ -4,3 +4,6 @@ if (age > 18) {
 } else {
   console.log("Not eligible.");
 }
+const a = 5;
+const b = "5";
+console.log(a === b);

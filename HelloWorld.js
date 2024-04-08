@@ -9,4 +9,4 @@ console.log(typeof money);
 const name1 = window.prompt("What is your name?");
 
 // Print the user's name to the console
-console.log(name);
+console.log(name1);
